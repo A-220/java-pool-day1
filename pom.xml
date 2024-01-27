@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.example</groupId>
+  <artifactId>JavaPool</artifactId>
+  <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>Archetype - JavaPool</name>
+  <url>http://maven.apache.org</url>
+    <modules>
+        <module>day00</module>
+        <module>day01</module>
+        <module>day02</module>
+        <module>day03</module>
+        <module>day04</module>
+        <module>day05</module>
+        <module>day06</module>
+        <module>day07</module>
+        <module>day08</module>
+        <module>day09</module>
+        <module>team</module>
+    </modules>
+</project>
