@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="347b0ee3-a368-4eb8-a94f-bb070c1219e8" name="Changes" comment="add: tree-files">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day00/src/main/java/ex00/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day00/src/main/java/ex01/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day00/src/main/java/ex02/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day00/src/main/java/ex03/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day00/src/main/java/ex04/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day00/src/main/java/ex05/Programm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex00/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex00/enums/TransferCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex00/model/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex00/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex01/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex01/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex01/utils/UserIdsGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex02/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex02/collection/UsersArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex02/collection/UsersList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex02/exception/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex02/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex03/collection/TransactionsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex03/collection/TransactionsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex03/exception/TransactionNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex03/model/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex03/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/collection/arraylist/UsersArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/collection/arraylist/UsersList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/collection/linkedlist/TransactionsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/collection/linkedlist/TransactionsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/enums/TransferCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/exception/TransactionNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/exception/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/model/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/service/TransactionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/service/TransactionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/main/java/ex04/util/UserIdsGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="347b0ee3-a368-4eb8-a94f-bb070c1219e8" name="Changes" comment="add: tree-files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +46,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "last_opened_file_path": "/Users/a22/IdeaProjects/JavaPool/day01/src/main/java/ex04",
     "node.js.detected.package.eslint": "true",
@@ -108,11 +66,14 @@
       <recent name="$PROJECT_DIR$/day01/src/main/java/ex04/collection" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\davidov\Documents\yanao\java-pool-day1\day02\src\main\resources" />
       <recent name="$PROJECT_DIR$/team" />
       <recent name="$PROJECT_DIR$/day09" />
       <recent name="$PROJECT_DIR$/day08" />
       <recent name="$PROJECT_DIR$/day07" />
-      <recent name="$PROJECT_DIR$/day06" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ex04.exception" />
@@ -138,6 +99,7 @@
       <workItem from="1706370555875" duration="805000" />
       <workItem from="1706371370378" duration="4762000" />
       <workItem from="1706424259807" duration="11177000" />
+      <workItem from="1706497436683" duration="16518000" />
     </task>
     <task id="LOCAL-00001" summary="add: tree-files">
       <option name="closed" value="true" />
